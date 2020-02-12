@@ -1,0 +1,11 @@
+/* Variables */
+
+:root {
+    --gray-background-l: rgb(69, 79, 99);
+    --gray-background: #3C4556;
+    --white: rgb(248, 248, 242);
+    --green: rgba(80, 250, 123, 1);
+    --pink: rgb(236, 141, 200);
+    --blue: rgb(139, 233, 253);
+    --yellow: rgb(241, 250, 140);	
+}
