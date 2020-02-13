@@ -27,8 +27,13 @@ section {
     margin: 5px 0;
 }
 
+#social-media {
+    margin: 10px 0;
+}
+
 .icons {
-    margin: 10px 5px;
+    font-size: 28px;
+    color: var(--white);
 }
 
 #avatar {
