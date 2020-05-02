@@ -21,12 +21,16 @@ a {
     text-decoration: none;
 }
 
+a p {
+    color: var(--blue);
+}
+
 ul {
     list-style: none;
 }
 
 h1, h2, h3, p {
-    margin-bottom: 5px;
+    margin: 7px 0px;
 }
 
 h1, h2 {
@@ -34,20 +38,20 @@ h1, h2 {
 }
 
 h1 {
-    font-size: 28px;
+    font-size: 30px;
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 26px;
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 17px;
 }
 
 p {
-    font-size: 15px;
-    line-height: 120%;
+    font-size: 17px;
+    line-height: 140%;
 }
 
 .nav-link {
